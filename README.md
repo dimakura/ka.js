@@ -78,4 +78,4 @@ ka.numberToString(999999999999999); // => ცხრაას ოთხმოც�
 
 1. Fork this repository;
 2. Submit pull request;
-3. Check tweeter on your iPhone.
+3. Check twitter on your iPhone.
