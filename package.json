@@ -1,0 +1,8 @@
+{
+  "name": "ka",
+  "version": "0.1.0",
+  "author": "Dimitri Kurashvili",
+  "devDependencies": {
+    "grunt": "~0.4.2"
+  }
+}
