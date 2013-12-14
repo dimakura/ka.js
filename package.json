@@ -1,7 +1,7 @@
 {
   "name": "ka",
   "description": "georgian language support",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Dimitri Kurashvili <dimakura@gmail.com> (http://invoice.ge)",
   "homepage": "https://github.com/dimakura/ka.js",
   "repository": {
