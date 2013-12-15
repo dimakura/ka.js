@@ -1,7 +1,3 @@
-if (typeof window != 'undefined') {
-  window.KA = {};
-}
-
 (function(module) {
   // -- mobile operations
 
@@ -110,4 +106,4 @@ if (typeof window != 'undefined') {
     return num;
   };
 
-})(typeof window != 'undefined' ? window.KA : exports);
+})(typeof window != 'undefined' ? (window.KA = {}) : exports);
