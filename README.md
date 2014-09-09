@@ -73,9 +73,3 @@ You can represent integers as strings:
 ka.numberToString(100); // => ასი
 ka.numberToString(999999999999999); // => ცხრაას ოთხმოცდა ცხრამეტი ტრილიონ ცხრაას ოთხმოცდა ცხრამეტი მილიარდ ცხრაას ოთხმოცდა ცხრამეტი მილიონ ცხრაას ოთხმოცდა ცხრამეტი ათას ცხრაას ოთხმოცდა ცხრამეტი
 ```
-
-## Contribute
-
-1. Fork this repository;
-2. Submit pull request;
-3. Check twitter on your iPhone.
