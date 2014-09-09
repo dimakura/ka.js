@@ -2,7 +2,8 @@
   // -- mobile operations
 
   module.compactMobile = function(mobile) {
-    return mobile.match(/\d+/g).join('');
+    var match = mobile.match(/\d+/g);
+    return (match && match.join('')) || '';
   };
 
   module.isLocalNumber = function(mobile) {
