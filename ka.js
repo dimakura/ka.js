@@ -106,4 +106,4 @@
     return num;
   };
 
-})(typeof window != 'undefined' ? (window.KA = {}) : exports);
+})(typeof window !== 'undefined' ? (window.KA = {}) : exports);

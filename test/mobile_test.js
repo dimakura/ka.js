@@ -1,5 +1,5 @@
 var assert = require('assert');
-var ka = require('../ka');
+var ka = require('../');
 
 describe('Mobile', function(){
   describe('mobile operations', function() {
